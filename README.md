@@ -1,21 +1,20 @@
 # Coalfire Cybersecurity Project
 **Organization:** Coalfire  
 **Duration:** May 2026 – August 2026  
-**Description:** Cybersecurity automation Project for Purple Team Engagement Management  
-**University:** Utah State University — Masters in Management Information Systems Program  
+**Description:** Cybersecurity automation Project for Purple Team Engagement Management   
 
 ## Overview
-Cybersecurity internship focused on purple team operations, 
+Cybersecurity project focused on purple team operations, 
 threat detection engineering, and MITRE ATT&CK framework 
 implementation for enterprise security programs.
 
-## Project 1 — Ultraviolet Purple Team Engagements Dashboard
+## Project Description — Ultraviolet Purple Team Engagements Dashboard
 
 Full-stack security operations dashboard for purple team 
 threat detection and deconfliction workflows.
 
 ### Tech Stack
-- **Frontend:** Next.js 15, TypeScript, Tailwind CSS
+- **Frontend:** Node, TypeScript
 - **Backend:** Prisma ORM, PostgreSQL
 - **Security:** MITRE ATT&CK integration
 
@@ -28,8 +27,8 @@ threat detection and deconfliction workflows.
 - Schema design for security data pipeline
 
 ## Skills Demonstrated
-`MITRE ATT&CK` `FiGHT Framework` `Threat Detection`  
-`Next.js 15` `TypeScript` `PostgreSQL` `Prisma`  
+`MITRE ATT&CK` `Threat Detection` `Node`
+`TypeScript` `PostgreSQL` `Prisma`  
 `Purple Team Operations` `TTP Analysis` `Security Documentation`
 
 ## Outcomes
