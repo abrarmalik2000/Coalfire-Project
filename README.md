@@ -27,7 +27,7 @@ threat detection and deconfliction workflows.
 - Schema design for security data pipeline
 
 ## Skills Demonstrated
-`MITRE ATT&CK` `Threat Detection` `Node`
+`Azure Devops` `MITRE ATT&CK` `Threat Detection` `Node`
 `TypeScript` `PostgreSQL` `Prisma`  
 `Purple Team Operations` `TTP Analysis` `Security Documentation`
 
@@ -36,6 +36,7 @@ threat detection and deconfliction workflows.
 - Mapped MITRE ATT&CK TTPs to enterprise security program
 - Built automated TTP classification pipeline
 - Contributed to purple team detection engineering workflow
+- Database creation & administration for report generation
 
 ## Note
 Source code is proprietary.
